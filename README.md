@@ -1,7 +1,10 @@
+
 [![MasterHead](https://drive.google.com/uc?id=1swFlPR-fdL-pGdKbA8i7UqkMS_BfkQCF)](https://rishavchanda.io)
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+There!+👋;+I'm+Elizabeth+Baltazar!;" />
+</h1>
 
-<h1 align="center">Hello 👋, I'm Ma. Elizabeth D. Baltazar</h1>
 <h3 align="center">I'm a IT student at FEU Tech, passionate about web and mobile design. I love blending creativity and technology to create visually appealing and user-friendly interfaces.</h3>
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/5bff72c9704a9a2da1ad9ef5ca1d2566/ab055e9835e8d540-37/s1280x1920/6dd535472329c062047a2442663a29a4763bb3a8.gif">
 
